@@ -8,5 +8,6 @@
   "bracketSpacing": true,
   "arrowParens": "always",
   "proseWrap": "always",
-  "bracketSameLine": true
+  "bracketSameLine": true,
+  "htmlWhitespaceSensitivity": "ignore"
 }
