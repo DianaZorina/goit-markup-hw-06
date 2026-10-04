@@ -50,14 +50,7 @@
   }
 
   .ftrs-title {
-    font-weight: 700;
-    font-size: 30px;
-    line-height: 1.2;
     text-align: left;
-  }
-
-  .ftrs-txt {
-    font-weight: 400;
   }
 }
 
@@ -88,5 +81,9 @@
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+  }
+
+  .ftrs-txt {
+    font-weight: 400;
   }
 }
