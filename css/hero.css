@@ -79,10 +79,7 @@
     padding: 188px 0;
     background-image:
       linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-      image-set(
-        url('../images/hero-bg.jpg') 1x,
-        url('../images/hero-bg@2x.jpg') 2x
-      );
+      image-set(url('../images/hero-bg.jpg') 1x);
   }
 
   .hero-title {
